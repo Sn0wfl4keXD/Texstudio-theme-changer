@@ -9,8 +9,6 @@ try:
 except:
   ini_file = "texstudio.ini"
 finally:
-  if ini_file == None:
-    ini_file = "texstudio.ini"
   try:
     origin = open(ini_file, "r").readlines()
   except:
