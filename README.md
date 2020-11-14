@@ -3,7 +3,7 @@ Changes the Texstudio Theme
 
 ## Usage
 
-#Linux Version 1
+# Linux
 ```bash
 sudo chmod +x changer.py
 ./changer.py [file with format] [texstudio.ini] #by default ~/.config/texstudio/texstudio.ini
@@ -14,4 +14,4 @@ sudo chmod +x changer.py
 ./changer.py [file with format] 
 ```
 
-#Not Tested on Windows
+# Not Tested on Windows
